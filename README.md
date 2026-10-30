@@ -11,7 +11,7 @@
 ## 📖 About
 * Late in the evening, you – a lab technician and programmer – have just finished your main shift when you're urgently called to another NESTIMS laboratory.
 
-* The reason is unknown: just a short message with an access code and an address. You don't even have time to change.
+* The reason is unknown: just a short message with an address. You don't even have time to change.
 
 * What seemed like a minor inconvenience quickly turned into a fight for survival.
 
