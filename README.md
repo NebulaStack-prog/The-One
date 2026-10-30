@@ -85,14 +85,18 @@
 
 ## 📸 Screenshots
 
-![Main Menu](TO1.png)
+![](TO1.png)
 
-![Intro Screen](TO2.png)
+![](TO2.png)
 
-![Terminal](TO3.png)
+![](TO3.png)
 
-![Terminal Task](TO4.png)
+![](TO4.png)
 
-![Corridor](TO5.png)
+![](TO5.png)
+
+![](TO6.png)
+
+![](TO7.png)
 
 © NESTIMS
