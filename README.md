@@ -15,7 +15,7 @@
   
 * The doors locked behind you. The power is out. And something is hunting you in the dark.
 
-* **Project The One** is a first-person horror narrative built entirely on static scenes. There are no 3D graphics or complex movement mechanics. Your progression relies on exploring the environment and interacting with it.
+* **The One** is a first-person horror narrative built entirely on static scenes. There are no 3D graphics or complex movement mechanics. Your progression relies on exploring the environment and interacting with it.
   
 * The game features a unique survival mechanic: to hack security systems, open doors, or call for help, you must write actual Python code under extreme pressure. A hidden timer is always ticking, and the monster's growls are getting closer.
   
