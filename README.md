@@ -9,9 +9,7 @@
 > **Survive the dark. Code your way out.** A psychological horror visual novel where your only weapon is Python.
 
 ## 📖 About
-* Late in the evening, you – a lab technician and programmer – have just finished your main shift when you're urgently called to another NESTIMS laboratory.
-
-* The reason is unknown: just a short message with an address. You don't even have time to change.
+* Late in the evening, you – a lab technician and programmer – have just finished your main shift when you're urgently called to another NESTIMS laboratory. The reason is unknown: just a short message with an address. 
 
 * What seemed like a minor inconvenience quickly turned into a fight for survival.
 
