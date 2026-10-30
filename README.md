@@ -34,7 +34,7 @@
 ## 🎮 Gameplay & Features
 
 ### 1. Scene-by-Scene Progression
-* The game consists of a series of static, hand-drawn scenes (TO1 – TO34).
+* The game consists of a series of static scenes (Sc 1 – Sc 34).
   
 * Transitions between scenes occur in two ways: either automatically (seamless cuts) or by clicking a prompt that appears after a few seconds.
   
