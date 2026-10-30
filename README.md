@@ -75,7 +75,7 @@
 
 ## 🚀 Project Run
 
-1. Go to the **Releases** section of this repository.
+1. Go to the [**Releases**](https://github.com/NebulaStack-prog/The-One/releases/tag/v1.0.0) section of this repository.
    
 2. Download the latest version of **`TheOne.exe`**.
    
