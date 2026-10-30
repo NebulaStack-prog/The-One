@@ -9,6 +9,11 @@
 > **Survive the dark. Code your way out.** A psychological horror visual novel where your only weapon is Python.
 
 ## 📖 About
+* Late in the evening, you – a lab technician and programmer – have just finished your main shift when you're urgently called to another NESTIMS laboratory.
+
+* The reason is unknown: just a short message with an access code and an address. You don't even have time to change.
+
+* What seemed like a minor inconvenience quickly turned into a fight for survival.
 
 * You missed your stop and decided to take a shortcut through the territory of an abandoned NESTIMS laboratory. What seemed like a minor inconvenience quickly turned into a fight for survival.
   
@@ -39,12 +44,7 @@
   
 * Special effects like camera shake, Ken Burns zoom, CRT film grain, and vignette keep the static images alive.
 
-### 2. Interactive Hotspots
-* Explore locations by moving your mouse. Interactive zones appear as pulsing labels in the center of the screen.
-  
-* **Hint System:** If you don't know where to click, just wait. All action buttons automatically appear 5 seconds after the scene starts.
-
-### 3. Python Terminal Puzzles
+### 2. Python Terminal Puzzles
 * At key moments, you will need to access computer terminals.
   
 * The game features a custom built-in IDE with a retro CRT boot screen.
@@ -55,14 +55,14 @@
   
 * Your code is tested in real-time against hidden test cases. If the timer runs out or the tests fail, the monster finds you.
 
-### 4. Immersive Audio & Visuals
+### 3. Immersive Audio & Visuals
 * Dynamic sound design: from the distant rumble of the bus to the industrial alarm, the metallic creaking of gates, and the terrifying breath of the monster.
   
 * Custom visual effects: closing eyelids, screen glitches, and fade transitions.
   
 * No voice acting is required; the story is told through atmospheric text and sound.
 
-### 5. Defeat & Survival
+### 4. Defeat & Survival
 * If you fail a terminal task, you don't just retry. The monster attacks, resulting in a brutal game over screen.
   
 * You must survive the laboratory, navigate the corridors, and reach the watchtower to signal for rescue.
